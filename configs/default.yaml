@@ -1,0 +1,2 @@
+app_title: Lab Reporting & Sample-Tracking Tool
+required_columns: [sample_id, project, sample_type, owner, status]

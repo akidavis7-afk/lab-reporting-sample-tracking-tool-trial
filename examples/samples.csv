@@ -1,0 +1,4 @@
+sample_id,project,sample_type,owner,status
+S-001,PromoterStudy,DNA,Ana,received
+S-002,PromoterStudy,RNA,Ana,processing
+S-003,ProteinVariant,Protein,Lee,complete

@@ -2,6 +2,8 @@
 
 A lightweight SQLite-backed workflow for lab managers and research assistants.
 
+[Click here to view the Live Interactive Web App Demo](https://lab-reporting-sample-tracking-tool-trial-htq2vek5mbwsc5vczq94c.streamlit.app/)
+
 ## Features
 
 - Import sample metadata from CSV
